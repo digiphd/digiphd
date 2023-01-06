@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://ko-fi.com/rogerchappel/shop" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy My Digital Art" height="41" width="174"></a>
+<a href="https://ko-fi.com/rogerchappel/shop" target="_blank"><img src="https://ik.imagekit.io/rscreative/manual_media/Business_Card_Classic_9.1x5.5_cm_bIvqTQFWy0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672991807924" alt="Buy My Digital Art" height="41" width="250"></a>
 </p>
 <h3 align="center">hey there, I'm Roger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
 <h1 align="center">I am a Full Stack Developer and Data Scientist in Australia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
