@@ -1,10 +1,9 @@
 
-<p align="left"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828" width="400"/></p>
+<p align="left"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828" width="800"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-
 <a href="https://ko-fi.com/rogerchappel/shop" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy My Digital Art" height="41" width="174"></a>
 </p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
