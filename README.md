@@ -1,5 +1,5 @@
 
-<p align="left"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828&tr=w-1200%2Ch-628%2Cfo-auto" width="400"/></p>
+<p align="left"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828" width="400"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -15,7 +15,7 @@ I am a Full Stack Developer and Data Scientist in Australia.
 
 - 🔭 I’m working as a Software Engineer ML Pipeline architect.
 - 🌱 I relentlessly pursue learning new technologies & adapting my skills to different problems
-- ⚡ In my free time I live to play with my kids & create AI Art
+- ⚡ In my free time I like to play with my kids & create [AI Art](https://ko-fi.com/rogerchappel/shop)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-roger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerchappel)
 
 #### Check out my Portfolio website and resume [here](https://www.rogerchappel.com)
