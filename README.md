@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://ko-fi.com/rogerchappel/shop" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy My Digital Art" height="41" width="174"></a>
 </p>
-<h3 align="center">hey there, I'm Roger 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
+<h3 align="center">hey there, I'm Roger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
 <h1 align="center">I am a Full Stack Developer and Data Scientist in Australia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: &nbsp;About Me :
