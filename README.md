@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828&tr=w-1200%2Ch-628%2Cfo-auto" width="600"/></p>
+<p align="left"><img src="https://ik.imagekit.io/rscreative/manual_media/YouTube_Channel_Art_2560x1440_px_-_Custom_dimensions_-_Custom_dimensions__1__bHm1Zc_GP.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672984333828&tr=w-1200%2Ch-628%2Cfo-auto" width="400"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
