@@ -13,7 +13,7 @@
 
 I love the whole process of building data insights solutions. From Data Engineering, Data Science & Data analytics.
 
-- 🔭 I’m working as a Software Engineer ML Pipeline architect.
+- 🔭 I’m working as a Software Engineer Solutions architect.
 - 🌱 I relentlessly pursue learning new technologies & adapting my skills to different problems
 - ⚡ In my free time I like to play with my kids & create [AI Art](https://ko-fi.com/rogerchappel/shop)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-roger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerchappel)
