@@ -13,11 +13,11 @@
 
 Passionate about building end-to-end data solutions and generative AI. From Data Engineering, Data Science & Data analytics to crafting virtual worlds.
 
-🔭 Currently employed as a Software Engineer Solutions Architect, specializing in Python, Azure, and AWS.
-🌱 Committed to learning new technologies and adaptively applying my skills to various challenges.
-🤖 Fascinated by generative AI and its potential to make technology more "cute and wholesome."
-⚡ In my free time, I enjoy spending quality time with my kids and creating AI art.
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-roger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerchappel)
+- 🔭 Currently employed as a Software Engineer Solutions Architect, specializing in Python, Azure, and AWS.
+- 🌱 Committed to learning new technologies and adaptively applying my skills to various challenges.
+- 🤖 Fascinated by generative AI and its potential to make technology more "cute and wholesome."
+- ⚡ In my free time, I enjoy spending quality time with my kids and creating AI art.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-roger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerchappel)
 
 #### Check out my Portfolio website and resume [here](https://www.rogerchappel.com)
 ### Here have a joke:
