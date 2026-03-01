@@ -24,7 +24,7 @@
 
 ---
 
-Full-stack engineer shipping useful production SaaS products — from idea to live users. ~6,000 commits in the last 12 months. 
+Full-stack engineer shipping useful production SaaS products — from idea to live users. 
 
 ## 🚀 Currently Shipping
 
