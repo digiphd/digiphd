@@ -28,10 +28,9 @@ Full-stack engineer shipping production SaaS products solo — from idea to live
 
 ## 🚀 Currently Shipping
 
-- 🎬 **[ClutchCut](https://clutchcut.com)** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo`
 - 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe` — *sign up & try it*
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
-- 🚀 **[MyMVP.io](https://mymvp.io)** — Ship your MVP in 4 weeks
+- 🎬 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo` — *coming soon*
 
 > I design, build, and ship every product end-to-end. No co-founder, no dev team — just fast iteration and relentless shipping.
 
