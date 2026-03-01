@@ -28,6 +28,7 @@ Full-stack engineer shipping production SaaS products solo — from idea to live
 
 ## 🚀 Currently Shipping
 
+- 🐎 **[Thoroughbreds.ai](https://thoroughbreds.ai)** — Equine breeding intelligence platform `Next.js · Python · ML` — *CTO & Co-Founder*
 - 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe` — *sign up & try it*
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
 - 🎬 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo` — *coming soon*
