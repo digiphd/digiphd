@@ -40,7 +40,8 @@ Full-stack engineer shipping production SaaS products solo — from idea to live
 ```
 Frontend     Next.js · TypeScript · React · Tailwind CSS
 Backend      Python · FastAPI · Node.js · Supabase · PostgreSQL
-AI/ML        OpenAI · Claude · LangChain · Vector DBs
+AI/ML        OpenAI · Claude · LangChain · scikit-learn · Vector DBs · NLP
+ML Eng       Feature Engineering · Predictive Models · Recommendation Engines · Audio Analysis
 Payments     Stripe · Better Auth
 Infra        Vercel · Cloudflare · Turborepo · Railway
 ```
