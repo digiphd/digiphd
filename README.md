@@ -62,6 +62,10 @@ Infra        Vercel · Cloudflare · Turborepo · Railway
 <img src="https://github-readme-streak-stats.herokuapp.com?user=digiphd&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digiphd&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
 ## 💡 Philosophy
 
 "Ship beats perfect." I build products to solve real problems, learn what works by putting things in front of real users, and iterate fast. Every product I've built went from idea to live URL in weeks, not months.
