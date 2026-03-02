@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://axislabs.dev"><img src="https://img.shields.io/badge/-Axis_Labs-1a1a1a?style=flat-square&logo=rocket&logoColor=white" alt="Axis Labs"></a>
 <a href="mailto:hello@axislabs.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=digiphd&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
