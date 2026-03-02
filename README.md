@@ -51,7 +51,7 @@ Infra        Vercel · Cloudflare · Turborepo · Railway
 ## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=digiphd&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=digiphd&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📊 Activity
