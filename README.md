@@ -35,7 +35,7 @@ Full-stack engineer shipping useful production SaaS products — from idea to li
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
 - 🎬 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo` — *coming soon*
 
-> I design, build, and ship every product end-to-end. No co-founder, no dev team — just fast iteration and relentless shipping.
+> I design, build, and ship every product end-to-end. No dev team — just fast iteration and relentless shipping.
 
 ## 🛠 What I Build With
 
