@@ -74,6 +74,23 @@ Infra        Vercel · Cloudflare · Turborepo · Railway
 
 Currently focused on AI-powered content tools and automation platforms.
 
+## 🤖 AI-Assisted Development
+
+```text
+ ┌─────────────────────────────────────────────┐
+ │  Me:     "Build a SaaS in a weekend"        │
+ │  Claude: "Say less."                        │
+ │  Me:     *ships it Monday*                  │
+ │  Users:  "Wait, there's no team?"           │
+ └─────────────────────────────────────────────┘
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pair_Programmer-Claude_🧠-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vibe_Coded-0%25-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bugs_Blamed_On_AI-100%25-red?style=for-the-badge" />
+</p>
+
 ---
 
 <p align="center">
